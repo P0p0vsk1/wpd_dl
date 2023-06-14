@@ -27,11 +27,9 @@ python wpd_dl.py
 
 ```
 
-You will be prompted to enter the category and number of pages you want to scrape.
+You will be prompted to enter the category and number of pages you want to download.
 
-The script will then extract all `.mp4` links from the specified pages and prompt you to download them. If you choose to download the files, they will be saved in a new directory named `wpd_{category}_{pages}`. If the directory already exists, the files will be saved in it instead.
-
-If you choose not to download the files, the script will save the links to a text file named `wpd_{category}_{pages}.txt`.
+If you choose not to download the files, the script will save the links to a text file.
 
 Disclaimer
 ----------
