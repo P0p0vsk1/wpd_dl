@@ -13,7 +13,14 @@ This script requires the following libraries to be installed:
 -   requests
 -   tqdm
 
-You can install these libraries using `pip`.
+Just run the following command:
+
+CMD
+
+```
+pip install -r requirements.txt
+
+```
 
 Usage
 -----
